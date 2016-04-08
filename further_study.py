@@ -114,9 +114,8 @@ def custom_remove(input_list, value):
         i += 1
     # for item in input_list:
     #     if item == value:
-    #         item = None
+    #         del item
     #         break
-    # print "hahaha", input_list
     return
 
 
